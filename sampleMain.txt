@@ -1,1 +1,2 @@
 sample text file 
+added 2nd line and it should be add by git add
